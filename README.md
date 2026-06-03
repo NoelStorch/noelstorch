@@ -4,7 +4,15 @@
 </h1>
 
 <p align="center">
-  Software Developer • Frontend Web & Mobile • Backend Laravel & NestJS • React / React Native / Next.js
+  Full-Stack Software Developer
+</p>
+
+<p align="center">
+  Frontend Web & Mobile • React • React Native • Next.js
+</p>
+
+<p align="center">
+  Backend • Laravel • NestJS
 </p>
 ---
 
